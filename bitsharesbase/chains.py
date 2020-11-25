@@ -30,4 +30,9 @@ known_chains = {
         "core_symbol": "DNA",
         "prefix": "DNA",
     },
+    "helix": {
+        "chain_id": "cfb7b389c6cbf02d56c192437f87aaed1f13c06dc8fdd0dd0c700bf325be1131",
+        "core_symbol": "DNA",
+        "prefix": "DNA",
+    },
 }
