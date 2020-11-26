@@ -31,6 +31,16 @@ known_chains = {
         "prefix": "DNA",
     },
     "helix": {
+        "chain_id": "24938a99198d850bb7d79010c1325fb63fde63e8e477a5443ff5ce50ab867055",
+        "core_symbol": "DNA",
+        "prefix": "DNA",
+    },
+    "helix_test_net1": {
+        "chain_id": "0a2635a87e323bb2db4c8bcaab2f3238c910108e6b3dfab89f0b43283d72c969",
+        "core_symbol": "DNA",
+        "prefix": "DNA",
+    },
+    "helix_test_net2": {
         "chain_id": "cfb7b389c6cbf02d56c192437f87aaed1f13c06dc8fdd0dd0c700bf325be1131",
         "core_symbol": "DNA",
         "prefix": "DNA",
